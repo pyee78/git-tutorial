@@ -1,2 +1,4 @@
 # git-tutorial
-the helllo world walkthrough on the github site
+the hello world walkthrough on the github site
+
+#working through the basic online tutorial on thet site
